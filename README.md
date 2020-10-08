@@ -25,7 +25,7 @@ You can download python [here](https://www.python.org/downloads/).
 
 You should start cloning this repository:
 
-    $ git clone https://github.com/shivangmedhekar/Movie-Trailers-Website.git
+    $ git clone https://github.com/nivyajomichan/Movie-Trailer-python.git
 
 After getting the code, you must run **entertainment_center.py** script with **python** like this:
     
